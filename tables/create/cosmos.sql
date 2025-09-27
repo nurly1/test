@@ -5,4 +5,5 @@ name varchar,
 stars numeric,
 terminate varchar,
 test2 numeric,
+test3 varchar
 );
